@@ -1,4 +1,4 @@
-veggies = {'cabbage':12, 'carrot':23, 'spinach':10, 'asparagus':19,'artichoke':67,'lettuce':30}
+veggies = {'cabbage':120, 'carrot':230, 'spinach':100, 'asparagus':190,'artichoke':670,'lettuce':300}
 
 total = 0
 
